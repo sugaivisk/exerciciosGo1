@@ -1,3 +1,3 @@
-<title>Exercícios em Go</title>
+Exercícios em Go
 
-<p>Este repositório foi criado para documentar e guardar os exercícios em Go das aulas do Jon Calhoun</p>
+Este repositório foi criado para documentar e guardar os exercícios em Go das aulas do Jon Calhoun
